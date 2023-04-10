@@ -63,7 +63,7 @@ body {
 .get {
     font-family: Inter;
     color: #FFFFFF;
-    font-size: 3.6rem;
+    font-size: 3.5rem;
     font-weight: 700;
     margin-top: 13%;
     margin-left: 8%;
@@ -92,10 +92,10 @@ span {
 .list {
 
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     color: #FFFFFF;
     margin-top: 10%;
-    margin-left: -10px;
+    margin-left: -50px;
 }
 
 
@@ -104,7 +104,7 @@ span {
     height: 29px;
     font-style: normal;
     font-weight: 700;
-    font-size: 2.5rem;
+    font-size: 2.3rem;
     margin-top: -10%;
 }
 
