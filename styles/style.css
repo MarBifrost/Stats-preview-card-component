@@ -56,7 +56,7 @@ body {
     /* position: absolute; */
     filter: brightness(0.75);
     mix-blend-mode: multiply;
-    filter: brightness(1);
+    filter: brightness(1.2);
 
 }
 
